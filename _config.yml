@@ -1,0 +1,32 @@
+url: https://smoreira.github.io/
+
+# Site settings
+title: "Learning Rate"
+email: moreira.sandro@gmail.com
+description: "Machine Learning para todo mundo"
+
+
+# Team names, titles and social links
+people:
+- name: Sandro Moreira
+  pic: 1
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/sandro-moreira-2329878
+  - title: github
+    url: https://github.com/smoreira
+  - title: facebook 
+    url: https://www.facebook.com/moreira.sandro
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: rouge
