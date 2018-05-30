@@ -28,7 +28,7 @@ A arquitetura inicialmente proposta é baseada em redes neurais convolucionais (
 Para os testes iniciais, como na prova de conceito, serão utilizados os dados publicados por Physionet (2016), que contém 4.340 gravações obtidas de 1.072 indivíduos, totalizando 233.512 sons cardíacos coletados de indivíduos saudáveis e pacientes com várias condições, como doença valvar cardíaca e doença arterial coronariana, em ambientes clínicos e não clínicos.
  Os arquivos de áudio para treinamento da inteligência artificial serão convertidos para espectrograma, que é uma representação gráfica do som através da Transformada de Fourier, de acordo com Figueiredo (1977), obtendo-se assim arquivos de imagens conforme ilustrado na figura abaixo.
 
-<img src="/img/spectro.png" alt="spectro" class="img-responsive thumbnail pull-right" style="margin-left:3%; width: 40%;">
+<img src="/img/spectro.png" alt="spectro" class="img-responsive thumbnail pull-right" style="margin-left:3%; width: 80%;">
 
  Segundo SZEGEDY (2016), as redes convolucionais estão no centro da maioria das soluções de visão computacional para uma ampla variedade de tarefas. Desde 2014, as redes convolucionais muito profundas começaram a se tornar convencionais, produzindo ganhos substanciais em vários pontos de referência. A figura 2 apresenta um esquema de como é proposta a análise do espectrograma do áudio pela rede convolucional.
 
