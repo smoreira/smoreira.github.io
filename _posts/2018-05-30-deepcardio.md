@@ -1,7 +1,7 @@
 ---
 layout: tutorial
 comments: true
-title: Deep Cardio</em> 
+title: Deep Cardio 
 subtitle: "Análise de sons batimentos cardíacos para identificação de problemas cardiovasculares"
 date: 2018-05-30
 true-dt: 2018-05-30
