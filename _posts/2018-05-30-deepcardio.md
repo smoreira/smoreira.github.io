@@ -14,7 +14,6 @@ header-img: "img/deepcardio.jpg"
 
 Segundo a Organização Mundial de Saúde (OMS), as doenças cardiovasculares são a principal causa de morte no mundo, no Brasil, 300 mil pessoas sofrem infartos todos os anos; em 30% dos casos o ataque cardíaco é fatal. (BRASIL, 2017).
 A classificação e análise do som do coração (Fonocardiograma ou PCG - Phonocardiogram) desempenha um papel importante no diagnóstico precoce e prevenção de doenças cardiovasculares, mais especificamente as valvares. Quando uma das válvulas cardíacas se torna defeituosa pode resultar em estenose (estreitamento) ou regurgitação (vazamento). 
-Embora a imagem de ressonância magnética e ultrassom tenha deslocado a auscultação nas economias mais ricas, a auscultação do som cardíaco continua sendo um diagnóstico inicial válido do médico em consultas ambulatoriais. Entretanto, a razão de pacientes e médicos chega 50.000:1 em algumas regiões do mundo; no Brasil, segundo Scheffer (2015), o número de médicos cardiologistas em 2014 era de 13.420 o que representava uma razão de 15.000:1; consequentemente, o acesso ao diagnóstico especializado é, na maioria das vezes, impedido. 
 Por se tratar de doenças assintomáticas, os pacientes normalmente levam anos até obterem o diagnóstico definitivo e iniciarem tratamentos adequados. 
 O diagnóstico tardio, quando o paciente passa por episódios de dores no peito (angina), cansaço, indica que o mesmo já está em condições críticas e, em sua maioria com idade avançada, o que diminui as chances de reabilitação após intervenção cirúrgica necessária em casos críticos para troca das válvulas cardíacas. 
 De acordo com Leatham (1975), as primeiras classificações automatizadas utilizando PCG foram realizados há mais de 50 anos, e ao longo dos últimos anos, vários estudos foram realizados utilizando técnicas de análise de sinais, aprendizado de máquina como modelos ocultos de Markov, SVM (Support Vector Machine), etc. no entanto ainda é um desafio a classificação de áudios com ruídos externos, baixa qualidade e gravações em ambiente não clínicos.  
@@ -33,6 +32,7 @@ Para os testes iniciais, como na prova de conceito, serão utilizados os dados p
  Segundo SZEGEDY (2016), as redes convolucionais estão no centro da maioria das soluções de visão computacional para uma ampla variedade de tarefas. Desde 2014, as redes convolucionais muito profundas começaram a se tornar convencionais, produzindo ganhos substanciais em vários pontos de referência. A figura 2 apresenta um esquema de como é proposta a análise do espectrograma do áudio pela rede convolucional.
 
 <img src="/img/convolution_cardio.png" alt="convolucional" class="img-responsive thumbnail pull-right" style="margin-left:5%; width: 90%;">
+
 
 Os padrões contidos no áudio de um batimento cardíaco podem indicar a patologia presente nas válvulas cardíacas conforme afirma Guyton e Hall (2011)  e é apresentado na figura abaixo.
 
