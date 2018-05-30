@@ -35,7 +35,7 @@ Para os testes iniciais, como na prova de conceito, serão utilizados os dados p
 
  Segundo SZEGEDY (2016), as redes convolucionais estão no centro da maioria das soluções de visão computacional para uma ampla variedade de tarefas. Desde 2014, as redes convolucionais muito profundas começaram a se tornar convencionais, produzindo ganhos substanciais em vários pontos de referência. A figura 2 apresenta um esquema de como é proposta a análise do espectrograma do áudio pela rede convolucional.
 
-<img src="/img/convolution_cardio.png" alt="convolucional" class="img-responsive thumbnail pull-right" style="margin-left:5%; width: 90%;">
+<img src="/img/convolution_cardio.png" alt="convolucional" class="img-responsive thumbnail pull-right" style="margin-left:0%; width: 90%;">
 
 
 Os padrões contidos no áudio de um batimento cardíaco podem indicar a patologia presente nas válvulas cardíacas conforme afirma Guyton e Hall (2011)  e é apresentado na figura abaixo.
