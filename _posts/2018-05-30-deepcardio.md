@@ -8,6 +8,10 @@ true-dt: 2018-05-30
 tags: [Post]
 author: "Sandro Moreira"
 header-img: "img/deepcardio.jpg"
+modal-id: 7
+thumbnail: /img/tumbDeepCardio.jpg
+description: Sabe aquelas imagens psicodélicas que vira e meche aparecem na internet? Elas são na verdade uma técnica chamada Deep Dream, desenvolvida para entender os que as redes neurais aprendem.
+
 ---
 
 ## Descrição
