@@ -28,19 +28,19 @@ A arquitetura inicialmente proposta é baseada em redes neurais convolucionais (
 Para os testes iniciais, como na prova de conceito, serão utilizados os dados publicados por Physionet (2016), que contém 4.340 gravações obtidas de 1.072 indivíduos, totalizando 233.512 sons cardíacos coletados de indivíduos saudáveis e pacientes com várias condições, como doença valvar cardíaca e doença arterial coronariana, em ambientes clínicos e não clínicos.
  Os arquivos de áudio para treinamento da inteligência artificial serão convertidos para espectrograma, que é uma representação gráfica do som através da Transformada de Fourier, de acordo com Figueiredo (1977), obtendo-se assim arquivos de imagens conforme ilustrado na figura abaixo.
 
-<img src="/img/spectro.png" alt="spectro" class="img-responsive thumbnail pull-right" style="margin-left:5%; width: 100%;">
+<img src="/img/spectro.png" alt="spectro" class="img-responsive thumbnail pull-right" style="margin-left:5%; width: 90%;">
 
  Segundo SZEGEDY (2016), as redes convolucionais estão no centro da maioria das soluções de visão computacional para uma ampla variedade de tarefas. Desde 2014, as redes convolucionais muito profundas começaram a se tornar convencionais, produzindo ganhos substanciais em vários pontos de referência. A figura 2 apresenta um esquema de como é proposta a análise do espectrograma do áudio pela rede convolucional.
 
-<img src="/img/convolution_cardio.png" alt="convolucional" class="img-responsive thumbnail pull-right" style="margin-left:5%; width: 100%;">
+<img src="/img/convolution_cardio.png" alt="convolucional" class="img-responsive thumbnail pull-right" style="margin-left:5%; width: 90%;">
 
 Os padrões contidos no áudio de um batimento cardíaco podem indicar a patologia presente nas válvulas cardíacas conforme afirma Guyton e Hall (2011)  e é apresentado na figura abaixo.
 
-<img src="/img/phonocardio.png" alt="phonocardio" class="img-responsive thumbnail pull-right" style="margin-left:5; width: 40%;">
+<img src="/img/phonocardio.png" alt="phonocardio" class="img-responsive thumbnail pull-right" style="margin-left:5; width: 25%;">
 
 Uma interface de usuário será desenvolvida para realizar a captura de áudio através de microfone acoplado a um estetoscópio e submissão à classificação pelo sistema inteligente. O estetoscópio deverá ser posicionado em um dos focos de auscultação cardíaca para realização da gravação.  De acordo com Guyton e Hall (2011) existem quatro pontos focais: aórtico, pulmonar, tricúspide e mitral.
 
-##Imprensa
+## Imprensa
 
 Matéria no Jornal O Popular - (https://www.opopular.com.br/editorias/cidades/drama-familiar-inspira-inven%C3%A7%C3%A3o-1.1453740)
 
