@@ -7,15 +7,8 @@ date: 2018-05-30
 true-dt: 2018-05-30
 tags: [Post]
 author: "Sandro Moreira"
-header-img: "img/dark-ann.jpg"
+header-img: "img/deepcardio.jpg"
 ---
-
-<div class="row">
-<ul class="nav nav-tabs navbar-left">
-    <li><a href="/2017/02/15/MQO-formula-analitica/">Numpy</a></li>
-    <li class="active"><a href="#">Scikit-Learn</a></li>
-</ul>
-</div>
 
 ## Pré-requisitos
 
