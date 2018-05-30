@@ -36,9 +36,9 @@ Para os testes iniciais, como na prova de conceito, serão utilizados os dados p
 
 Os padrões contidos no áudio de um batimento cardíaco podem indicar a patologia presente nas válvulas cardíacas conforme afirma Guyton e Hall (2011)  e é apresentado na figura abaixo.
 
-<img src="/img/phonocardio.png" alt="phonocardio" class="img-responsive thumbnail pull-right" style="margin-left:5; width: 100%;">
+<img src="/img/phonocardio.png" alt="phonocardio" class="img-responsive thumbnail pull-right" style="margin-left:5; width: 40%;">
 
-Uma interface de usuário será desenvolvida para realizar a captura de áudio através de microfone acoplado a um estetoscópio e submissão à classificação pelo sistema inteligente. O estetoscópio deverá ser posicionado em um dos focos de auscultação cardíaca para realização da gravação.  De acordo com Guyton e Hall (2011) existem quatro pontos focais: aórtico, pulmonar, tricúspide e mitral
+Uma interface de usuário será desenvolvida para realizar a captura de áudio através de microfone acoplado a um estetoscópio e submissão à classificação pelo sistema inteligente. O estetoscópio deverá ser posicionado em um dos focos de auscultação cardíaca para realização da gravação.  De acordo com Guyton e Hall (2011) existem quatro pontos focais: aórtico, pulmonar, tricúspide e mitral.
 
 ##Imprensa
 
