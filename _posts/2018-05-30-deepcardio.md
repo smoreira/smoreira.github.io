@@ -42,7 +42,9 @@ Uma interface de usuário será desenvolvida para realizar a captura de áudio a
 
 ## Imprensa
 
-Matéria no Jornal O Popular - (https://www.opopular.com.br/editorias/cidades/drama-familiar-inspira-inven%C3%A7%C3%A3o-1.1453740)
+Matéria Portal G1 (https://g1.globo.com/go/goias/noticia/apos-a-morte-do-pai-professor-de-goias-cria-aplicativo-para-apontar-doencas-cardiacas-de-forma-simples-e-rapida.ghtml)
+
+Matéria no Jornal O Popular (https://www.opopular.com.br/editorias/cidades/drama-familiar-inspira-inven%C3%A7%C3%A3o-1.1453740)
 
 Revista UFG (https://issuu.com/ufgascom/docs/jornal_ufg_92_para_impress__o)
 
