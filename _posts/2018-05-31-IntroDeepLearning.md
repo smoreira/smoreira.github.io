@@ -22,6 +22,6 @@ Inteligência Artificial, Machine Learning, Deep Learning, como isso tudo se enc
 ***
 
 <ul class="pager">
-  <li class="next"><a href="https://smoreira.github.io/2018/06/01/DeepInstall/">Próximo</a></li>
+  <li class="next"><a href="https://smoreira.github.io/2018/06/01/AmbienteDL/">Próximo</a></li>
 </ul>
 
