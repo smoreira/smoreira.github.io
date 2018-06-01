@@ -5,7 +5,7 @@ title: TensorFlow Essencial
 subtitle: "Aprenda TensorFlow, o pacote criado pelo Google para treinar redes neurais. "
 date: 2017-05-12
 true-dt: 2017-05-12
-tags: [Tutorial]
+tags: [Tutorial2]
 author: "Matheus Facure"
 header-img: "img/dark-ann.jpg"
 ---
